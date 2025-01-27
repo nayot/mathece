@@ -1,0 +1,12 @@
+ID,Gender,Education,Marriage,Children_no,Income,Financial_satisfaction
+1,male,BSc,yes,3,45,3
+2,male,MSc,yes,4,55,4
+3,female,high_sch,no,0,32,3
+4,male,BSc,yes,2,58,4
+5,female,BSc,no,0,40,3
+6,female,MSc,no,0,46,5
+7,male,BSc,yes,4,62,4
+8,female,high_sch,yes,2,36,3
+9,female,MSc,yes,1,41,2
+10,male,BSc,yes,3,65,3
+11,female,MSc,yes,1,48,2
